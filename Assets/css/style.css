@@ -3,3 +3,117 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+
+/* Title */
+.top {
+    display: flex;
+    justify-content: center;
+}
+
+/* clock section */
+.clock-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 150px;
+}
+
+.clock-wrapper {
+    height: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+
+/* buttons under timer */
+.button-wrapper {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.button-wrapper button {
+    width: 100px;
+    border-radius: 15px;
+}
+
+
+/* timer section */
+.timer-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 120px;
+}
+
+.timer-section h5 {
+    text-align: center;
+}
+
+.timer-section input {
+    width: 80px;
+    
+}
+
+.set-timer {
+    width: 100%;
+}
+
+.timer-input {
+    display: flex;
+    justify-content: center;
+}
+
+.set-pass {
+    width: 100%;
+}
+
+.passtime-input {
+    display: flex;
+    justify-content: center;
+}
+
+/* alarm section */
+.alarm-section {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alarm-section h5 {
+    text-align: center;
+}
+
+.alarm-section select {
+    width: 150px;
+}
+
+.alarm-sound {
+    width: 80%;
+}
+
+.alarm-options {
+    display: flex;
+    justify-content: center;
+}
+
+.alarm-volume {
+    width: 80%;
+}
+
+.volume {
+    display: flex;
+    justify-content: center;
+}
+
+
+
