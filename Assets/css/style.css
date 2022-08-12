@@ -138,4 +138,11 @@
     grid-template-columns: 1fr 1fr;
     column-gap: 10px;
     row-gap: 5px;
+    margin-bottom: 10px;
+}
+
+.potheads-button {
+    border-radius: 15px;
+    padding-left: 3px;
+    padding-right: 3px;
 }
