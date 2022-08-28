@@ -125,23 +125,7 @@
     font-weight: bold;
 }
 
-.potheads-amount {
-    display: flex; 
-}
-
-.potheads-title {
-    margin-right: 5px;
-}
-
-.potheads-names {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    column-gap: 10px;
-    row-gap: 5px;
-    margin-bottom: 10px;
-}
-
-.potheads-button {
+#new-name-submit {
     border-radius: 15px;
     padding-left: 3px;
     padding-right: 3px;
