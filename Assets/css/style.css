@@ -125,6 +125,12 @@
     font-weight: bold;
 }
 
+.name_text {
+    border: none;
+    text-align: center;
+
+}
+
 #new-name-submit {
     border-radius: 15px;
     padding-left: 3px;
