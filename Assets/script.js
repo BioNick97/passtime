@@ -9,7 +9,7 @@
     const name = input.value
 
     if (!name) {
-      alert("Please fillout the name");
+      alert("Please add a name");
       return;
     }
 
